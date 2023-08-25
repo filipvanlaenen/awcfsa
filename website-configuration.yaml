@@ -1,5 +1,34 @@
 ---
 areaConfigurations:
+- areaCode: "ar"
+  translations:
+    de: "Argentinien"
+    en: "Argentina"
+    eo: "Argentino"
+    fr: "Argentine"
+    nl: "Argentinië"
+    no: "Argentina"
+  elections:
+    national:
+      dates:
+        66: "2001-10-14"
+        67: "2003-04-27"
+        68: "2005-10-23"
+        69: "2007-10-28"
+        70: "2009-06-28"
+        71: "2011-10-23"
+        72: "2013-10-27"
+        73: "2015-10-25"
+        74: "2019-10-27"
+        75: "2023-10-22"
+    presidential:
+      dates:
+        29: "2003-04-27"
+        30: "2007-10-28"
+        31: "2011-10-23"
+        32: "2015-10-25+2015-11-22"
+        33: "2019-10-27"
+        34: "2023-10-22"
 - areaCode: "ec"
   elections:
     national:
