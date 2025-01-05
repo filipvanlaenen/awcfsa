@@ -1,4 +1,6 @@
 ---
+id: AWCFSA
+name: South America
 areaConfigurations:
 - areaCode: "ar"
   translations:
