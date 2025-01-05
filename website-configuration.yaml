@@ -65,6 +65,23 @@ areaConfigurations:
     fr: "Équateur"
     nl: "Ecuador"
     no: "Ecuador"
+- areaCode: "sr"
+  elections:
+    national:
+      dates:
+        53: "2000-05-25"
+        54: "2005-05-25"
+        55: "2010-05-25"
+        56: "2015-05-25"
+        57: "2020-05-25"
+        58: "2025-05-25"
+  translations:
+    de: "Suriname"
+    en: "Suriname"
+    eo: "Surinamo"
+    fr: "Suriname"
+    nl: "Suriname"
+    no: "Surinam"
 widgetsConfiguration:
   tableFontFamily: "Alegreya Sans,'Helvetica Neue',Helvetica,sans-serif"
   tableStylesheets:
