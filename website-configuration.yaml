@@ -3,13 +3,6 @@ id: AWCFSA
 name: South America
 areaConfigurations:
 - areaCode: "ar"
-  translations:
-    de: "Argentinien"
-    en: "Argentina"
-    eo: "Argentino"
-    fr: "Argentine"
-    nl: "Argentinië"
-    no: "Argentina"
   elections:
     national:
       dates:
@@ -35,6 +28,13 @@ areaConfigurations:
         33: "2019-10-27"
         34: "2023-10-22+2023-11-19"
         35: "⪅2027-10"
+  translations:
+    de: "Argentinien"
+    en: "Argentina"
+    eo: "Argentino"
+    fr: "Argentine"
+    nl: "Argentinië"
+    no: "Argentina"
 - areaCode: "ec"
   elections:
     national:
@@ -84,6 +84,32 @@ areaConfigurations:
     fr: "Suriname"
     nl: "Suriname"
     no: "Surinam"
+- areaCode: "ve"
+  elections:
+    national:
+      dates:
+        34: "2000-07-30"
+        35: "2005-12-04"
+        36: "2010-10-26"
+        37: "2015-12-06"
+        38: "2020-12-06"
+        39: "2025-05-25"
+    presidential:
+      dates:
+        11: "2000-07-30"
+        12: "2006-12-03"
+        13: "2012-10-07"
+        14: "2013-04-14"
+        15: "2018-05-20"
+        16: "2024-07-28"
+        17: "≈2030-07"
+  translations:
+    de: "Venezuela"
+    en: "Venezuela"
+    eo: "Venezuelo"
+    fr: "Venezuela"
+    nl: "Venezuela"
+    no: "Venezuela"
 widgetsConfiguration:
   tableFontFamily: "Alegreya Sans,'Helvetica Neue',Helvetica,sans-serif"
   tableStylesheets:
