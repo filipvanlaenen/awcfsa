@@ -95,6 +95,23 @@ areaConfigurations:
     fr: "Équateur"
     nl: "Ecuador"
     no: "Ecuador"
+- areaCode: "gy"
+  elections:
+    national:
+      dates:
+        22: "2001-03-19"
+        23: "2006-08-28"
+        24: "2011-11-28"
+        25: "2015-05-11"
+        26: "2020-03-02"
+        27: "2025-09-01"
+  translations:
+    de: "Guyana"
+    en: "Guyana"
+    eo: "Gujano"
+    fr: "Guyana"
+    nl: "Guyana"
+    no: "Guyana"
 - areaCode: "sr"
   elections:
     national:
