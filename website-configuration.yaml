@@ -35,6 +35,34 @@ areaConfigurations:
     fr: "Argentine"
     nl: "Argentinië"
     no: "Argentina"
+- areaCode: "bo"
+  elections:
+    national:
+      dates:
+        49: "2002-06-30"
+        50: "2005-12-18"
+        51: "2006-07-02"
+        52: "2009-12-06"
+        53: "2014-10-12"
+        54: "2019-10-20"
+        55: "2020-10-18"
+        56: "2025-08-17"
+    presidential:
+      dates:
+        37: "2002-06-30"
+        38: "2005-12-18"
+        39: "2009-12-06"
+        40: "2014-10-12"
+        41: "2019-10-20"
+        42: "2020-10-18"
+        43: "2025-08-17"
+  translations:
+    de: "Bolivien"
+    en: "Bolivia"
+    eo: "Bolivio"
+    fr: "Bolivie"
+    nl: "Bolivia"
+    no: "Bolivia"
 - areaCode: "ec"
   elections:
     national:
