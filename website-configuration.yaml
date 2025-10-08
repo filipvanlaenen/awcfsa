@@ -3,6 +3,14 @@ id: AWCFSA
 name: South America
 areaConfigurations:
 - areaCode: "ar"
+  csvConfiguration:
+    electoralListIds:
+    - "AR202101"
+    - "AR202301"
+    - "AR200501"
+    - "AR200502"
+    - "AR189101"
+    - "AR201101"
   elections:
     national:
       dates:
