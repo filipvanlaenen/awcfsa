@@ -11,6 +11,7 @@ areaConfigurations:
     - "AR200502"
     - "AR189101"
     - "AR201101"
+    - "AR189101+AR200502"
   elections:
     national:
       dates:
