@@ -7,11 +7,11 @@ areaConfigurations:
     electoralListIds:
     - "AR202101"
     - "AR202301"
+    - "AR202302"
     - "AR200501"
-    - "AR200502"
     - "AR189101"
     - "AR201101"
-    - "AR189101+AR200502"
+    - "AR189101+AR200501"
   elections:
     national:
       dates:
