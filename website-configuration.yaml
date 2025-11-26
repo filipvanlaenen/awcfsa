@@ -134,6 +134,24 @@ areaConfigurations:
     fr: "Équateur"
     nl: "Ecuador"
     no: "Ecuador"
+- areaCode: "fk"
+  elections:
+    national:
+      dates:
+        15: "2001-11-22"
+        16: "2005-11-17"
+        17: "2009-11-05"
+        18: "2013-11-07"
+        19: "2017-11-09"
+        20: "2021-11-04"
+        21: "2025-12-11"
+  translations:
+    de: "Falklandinseln"
+    en: "Falkland Islands"
+    eo: "Insuloj Falklandoj"
+    fr: "Îles Malouines"
+    nl: "Falklandeilanden"
+    no: "Falklandsøyene"
 - areaCode: "gy"
   elections:
     national:
