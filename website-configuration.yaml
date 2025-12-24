@@ -115,6 +115,7 @@ areaConfigurations:
     - "CO199801"
     - "CO200001"
     - "CO200901"
+    - "CO201701"
   elections:
     national:
       dates:
