@@ -103,6 +103,33 @@ areaConfigurations:
     fr: "Chili"
     nl: "Chili"
     no: "Chile"
+- areaCode: "co"
+  elections:
+    national:
+      dates:
+        36: "2002-03-10"
+        37: "2006-03-12"
+        38: "2010-03-14"
+        39: "2014-03-09"
+        40: "2018-03-11"
+        41: "2022-03-13"
+        42: "2026-03-08"
+    presidential:
+      dates:
+        50: "2002-05-26"
+        51: "2006-05-28"
+        52: "2010-05-30+2010-06-20"
+        53: "2014-05-25+2014-06-15"
+        54: "2018-05-27+2018-06-17"
+        55: "2022-05-29+2022-06-19"
+        56: "2026-05-31"
+  translations:
+    de: "Kolumbien"
+    en: "Colombia"
+    eo: "Kolombio"
+    fr: "Colombie"
+    nl: "Colombia"
+    no: "Colombia"
 - areaCode: "ec"
   elections:
     national:
