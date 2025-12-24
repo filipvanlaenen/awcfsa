@@ -104,6 +104,17 @@ areaConfigurations:
     nl: "Chili"
     no: "Chile"
 - areaCode: "co"
+  csvConfiguration:
+    electoralListIds:
+    - "CO201301"
+    - "CO184801"
+    - "CO200501"
+    - "CO184901"
+    - "CO200502"
+    - "CO200503"
+    - "CO199801"
+    - "CO200001"
+    - "CO200901"
   elections:
     national:
       dates:
