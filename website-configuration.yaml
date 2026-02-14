@@ -212,6 +212,21 @@ areaConfigurations:
     nl: "Guyana"
     no: "Guyana"
 - areaCode: "pe"
+  csvConfiguration:
+    electoralListIds:
+    - "PE193001"
+    - "PE200001"
+    - "PE199701"
+    - "PE200501"
+    - "PE195601"
+    - "PE199702"
+    - "PE199401"
+    - "PE199801"
+    - "PE199402"
+    - "PE198901+PE199201+PE199701"
+    - "PE198901+PE199701"
+    - "PE200502"
+    - "PE200601"
   elections:
     national:
       dates:
