@@ -247,6 +247,10 @@ areaConfigurations:
     - "PE202002"
     - "PE202101"
     - "PE202102"
+    - "PE202301"
+    - "PE202103"
+    - "PE201703"
+    - "PE202302"
   elections:
     national:
       dates:
