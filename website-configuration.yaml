@@ -271,6 +271,50 @@ areaConfigurations:
     - "PE202306"
     - "PE202201"
     - "PE202003"
+  electedBodies:
+  - id: "cr"
+    electionDates:
+    - "1995-04-09"
+    - "2000-04-09"
+    - "2001-04-08"
+    - "2006-04-09"
+    - "2011-04-10"
+    - "2016-04-10"
+    - "2020-01-26"
+    - "2021-04-11"
+    properNames:
+      es: "Congreso de la República"
+    translatedNames:
+      de: "Kongress der Republik"
+      en: "Congress of the Republic"
+      eo: "Kongreso de la Respubliko"
+      fr: "Congrès de la République"
+      nl: "Congres van de Republiek"
+      no: "Republikkens kongress "
+  - id: "cd"
+    electionDates:
+    - "2026-04-12"
+    properNames:
+      es: "Cámara de Diputados"
+    translatedNames:
+      de: "Abgeordnetenkammer"
+      en: "Chamber of Deputies"
+      eo: "Ĉambro de deputitoj"
+      fr: "Chambre des députés"
+      nl: "Kamer van Afgevaardigden"
+      no: "Deputertkammer"
+  - id: "sn"
+    electionDates:
+    - "2026-04-12"
+    properNames:
+      es: "Senado"
+    translatedNames:
+      de: "Senat"
+      en: "Senate"
+      eo: "Senato"
+      fr: "Sénat"
+      nl: "Senaat"
+      no: "Senat"
   elections:
     national:
       dates:
