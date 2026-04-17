@@ -273,6 +273,7 @@ areaConfigurations:
     - "PE202003"
   electedBodies:
   - id: "cr"
+    defunct: true
     electionDates:
     - "1995-04-09"
     - "2000-04-09"
@@ -294,6 +295,7 @@ areaConfigurations:
   - id: "cd"
     electionDates:
     - "2026-04-12"
+    - "≤2031-04"
     properNames:
       es: "Cámara de Diputados"
     translatedNames:
@@ -306,6 +308,7 @@ areaConfigurations:
   - id: "sn"
     electionDates:
     - "2026-04-12"
+    - "≤2031-04"
     properNames:
       es: "Senado"
     translatedNames:
@@ -360,6 +363,7 @@ areaConfigurations:
     - "2016-04-10+2016-06-05"
     - "2021-04-11+2021-06-06"
     - "2026-04-12"
+    - "≈2031-04"
     properNames:
       es: "Presidente"
     translatedNames:
@@ -369,26 +373,6 @@ areaConfigurations:
       fr: "Président"
       nl: "President"
       no: "President"
-  elections:
-    national:
-      dates:
-        40: "2000-04-09"
-        41: "2001-04-08"
-        42: "2006-04-09"
-        43: "2011-04-10"
-        44: "2016-04-10"
-        45: "2020-01-26"
-        46: "2021-04-11"
-        47: "2026-04-12"
-    presidential:
-      dates:
-        37: "2000-04-09+2000-05-28"
-        38: "2001-04-08+2001-06-03"
-        39: "2006-04-09+2006-06-04"
-        40: "2011-04-10+2011-06-05"
-        41: "2016-04-10+2016-06-05"
-        42: "2021-04-11+2021-06-06"
-        43: "2026-04-12"
   translations:
     de: "Peru"
     en: "Peru"
