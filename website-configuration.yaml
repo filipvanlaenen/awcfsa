@@ -137,6 +137,7 @@ areaConfigurations:
     - "2018-10-07"
     - "2022-10-02"
     - "2026-10-04"
+    - "≤2030-10"
     properNames:
       pt: "Câmara dos Deputados"
     translatedNames:
@@ -186,6 +187,7 @@ areaConfigurations:
     - "2018-10-07"
     - "2022-10-02"
     - "2026-10-04"
+    - "≤2030-10"
     properNames:
       pt: "Senado Federal"
     translatedNames:
